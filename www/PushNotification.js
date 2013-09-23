@@ -49,4 +49,3 @@ var PushNotification = {
 }
 
 module.exports = PushNotification;
-
